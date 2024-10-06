@@ -1,0 +1,10 @@
+Window size:
+1280 720
+Object coordinates:
+DockingStation Point(35,35), 35
+DockingStation Point(1245,317), 35
+Table Circle(150, 400)
+Table Circle(420, 140)
+Table Circle(950, 100)
+Table Circle(1050, 550)
+Table Rectangle(630, 460)
